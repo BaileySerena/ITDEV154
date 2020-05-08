@@ -1,0 +1,7 @@
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\bin\Debug\OpenAddressing.exe.config
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\bin\Debug\OpenAddressing.exe
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\bin\Debug\OpenAddressing.pdb
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\obj\Debug\OpenAddressing.csprojAssemblyReference.cache
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\obj\Debug\OpenAddressing.csproj.CoreCompileInputs.cache
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\obj\Debug\OpenAddressing.exe
+C:\Users\sailo\source\repos\OpenAddressing\OpenAddressing\obj\Debug\OpenAddressing.pdb
